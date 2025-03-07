@@ -1,6 +1,8 @@
 
 *Code example is [here](U-Net.ipynb)*
 
+this readme is a summery of the U-Net paper
+
 # U-Net
 original paper is [here](https://arxiv.org/pdf/1505.04597v1) 
 
@@ -90,3 +92,6 @@ Rand Index was originally proposed to measure the similarity of two data cluster
 ![alt text](Images/ranking-ISBI.png)
 
 
+## Dataset
+you can download dataset in (here)[https://bbbc.broadinstitute.org/BBBC038]
+just download the date and put them in a data folder close to unet python notebook file.
